@@ -1,3 +1,13 @@
-div#nx-form-container {
+[dir] .nx-theme-styles .nx-theme-form {
     background-color: lightgray;
+}
+
+[dir] .nx-theme-styles .nx-theme-form {
+    background-image: url(https://i.ibb.co/XjzMyvB/safalo-realty.png);
+    background-repeat: no-repeat;
+    background-position: bottom left;
+}
+
+[dir] .nx-theme-styles .nx-theme-form .nx-action-panel {
+    padding-top: 30px;
 }
