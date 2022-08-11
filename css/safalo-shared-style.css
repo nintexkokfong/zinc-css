@@ -1,0 +1,22 @@
+[dir] .nx-theme-styles .nx-theme-form {
+    background-image: url(https://i.ibb.co/XjzMyvB/safalo-realty.png);
+    background-repeat: no-repeat;
+    background-position: top right;
+}
+
+[dir] .nx-theme-styles .nx-theme-form .nx-action-panel {
+    padding-top: 30px;
+}
+
+[dir] .nx-theme-styles .nx-theme-button-1 {
+    background-color: #011756;
+}
+
+
+[dir] .nx-theme-styles .nx-form-label {
+    color: #011756;
+}
+
+[dir] .nx-theme-styles .nx-theme-heading-1 {
+    color: #011756 !important;
+}
