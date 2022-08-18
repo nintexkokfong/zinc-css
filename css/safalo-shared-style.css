@@ -1,4 +1,4 @@
-[dir] .nx-theme-styles .nx-theme-form {
+[dir] .nx-theme-styles :not(.nx-repeating-section-container) .nx-theme-form {
     background-image: url(https://i.ibb.co/XjzMyvB/safalo-realty.png);
     background-repeat: no-repeat;
     background-position: top right;
